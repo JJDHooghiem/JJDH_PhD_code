@@ -1,0 +1,7 @@
+all_data=np.array([ diff_b3m1,
+ diff_b3m2 ,
+ diff_b4m1 ,
+ diff_b5m1 ,
+ diff_b6m1 ,
+ diff_b7m1])
+
